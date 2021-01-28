@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://root:root@cluster0.0e63v.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "J w T _ S e C r E t "
+}
